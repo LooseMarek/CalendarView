@@ -52,16 +52,12 @@ Simple calendar view framework for iOS, written in Swift.
 
 ## <a name="installation"> Installation
 
-### CocoaPods
+### Swift Package Manager
 
-**TODO: Move to separate repo**
-
-CalendarView is available through [CocoaPods](http://cocoapods.org). 
-To install it, simply add the following line to your `Podfile`:
-
-```
-pod "CalendarView"
-```
+1. In Xcode go to File -> Swift Packages -> Add Package Dependency...
+2. Select main module
+3. Search for URL `https://github.com/LooseMarek/CalendarView`
+4. Latest version is 1.0.0. Select -> Rules -> Version -> Up to Next Major 1.0.0 < 2.0.0
 
 ## <a name="demo_app"> Demo App
 
